@@ -3,8 +3,8 @@
 - We distribute documents e.g. Text, Worksheets and et.al. here.
 - 授業(群)のテキストなどを配布するサイトです
      - 基本的に情報システム工学科3年生むけのコンテンツです
-     - [C言語 - プログラミングの基礎は、すべてジャンケンとモグラ叩きが教えてくれた C言語編 -](clang/)だけは2年生向けです(なぜ「C言語編」というタイトルなのか?というと、
-     [C言語](clang/)、
+     - [C言語 - プログラミングの基礎は、すべてジャンケンとモグラ叩きが教えてくれた C言語編 -](https://2024.lectures.fml.org/clang/)だけは2年生向けです(なぜ「C言語編」というタイトルなのか?というと、
+     [C言語](https://2024.lectures.fml.org/clang/)、
      シェル、
      [Perl](https://unix-entrance.fml.org/perl/)、
      [Go言語編(インフラチームの研修兼)](https://lectures.fml.org/slides/training/infra-bootcamp/)があるからだ:-)
